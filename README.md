@@ -1,10 +1,10 @@
-<h1>Série The Mandalorian</h1>
+<h1 align="center">Série The Mandalorian</h1>
 <p align="center">The Mandalorian é a primeira série derivada em live-action de Star Wars. Transmitida pela Disney+, a produção mostra um caçador de recompensas viajando pela galáxia após os acontecimentos mostrados em O Retorno de Jedi.Criada por Jon Favreau, a série é estrelada por Pedro Pascal.</p>
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#status">Status</a>
+ <a href="#status">Status</a> •
  <a href="#autor">Autor</a>
 </p>
 
@@ -12,7 +12,7 @@
 
 <p>Página criada com finalidade avaliativa para a disciplina Gerência de Configuração e Mudanças</p>
 
-### 🛠 Tecnologias
+### Tecnologias
 
 As seguintes ferramentas foram utilizadas na construção da página:
 
