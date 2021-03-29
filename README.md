@@ -27,11 +27,11 @@ As seguintes ferramentas foram utilizadas na construção da página:
 
 <p>Joercia Lacerda  :woman:</p>
 
+<a target="_blank" href="https://github.com/JoerciaLacerda">
+  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+
 <a target="_blank" href="https://www.linkedin.com/in/joercia-lacerda-b3a61a11b/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   
 <a target="_blank" href="mailto:joercia.lacerda@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
- 
- <a target="_blank" href="https://github.com/JoerciaLacerda">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
