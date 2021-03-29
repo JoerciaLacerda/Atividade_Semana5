@@ -1,4 +1,4 @@
-<h1 align="center">Série The Mandalorian</h1>
+<h2 align="center">Série The Mandalorian</h2>
 <p align="center">The Mandalorian é a primeira série derivada em live-action de Star Wars. Transmitida pela Disney+, a produção mostra um caçador de recompensas viajando pela galáxia após os acontecimentos mostrados em O Retorno de Jedi.Criada por Jon Favreau, a série é estrelada por Pedro Pascal.</p>
 
 <p align="center">
@@ -21,11 +21,11 @@ As seguintes ferramentas foram utilizadas na construção da página:
 
 ### Status
 
-<h4>Página concluída :white_check_mark:</h4>
+<p>Página concluída :white_check_mark:<p>
 
 ### Autor(a)
 
-<p>Joercia Lacerda  :woman:</p>
+<h4>Joercia Lacerda  :woman:<h4>
 
 <a target="_blank" href="https://github.com/JoerciaLacerda">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
