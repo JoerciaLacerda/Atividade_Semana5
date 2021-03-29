@@ -21,15 +21,11 @@ As seguintes ferramentas foram utilizadas na construção da página:
 
 ### Status
 
-<h4 align="center"> 
-	Página concluída :white_check_mark:
-</h4>
+<h4>Página concluída :white_check_mark:</h4>
 
 ### Autor(a)
 
-<img src="Eu.jpg" alt="some text" width=30 height=10>
-
-<p>Feito por Joercia Lacerda</p>
+<p>Feito por Joercia Lacerda  :woman:</p>
 
 <a target="_blank" href="https://www.linkedin.com/in/joercia-lacerda-b3a61a11b/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
