@@ -1,5 +1,5 @@
 <h2 align="center">Série The Mandalorian</h2>
-<p align="center">The Mandalorian é a primeira série derivada em live-action de Star Wars. Transmitida pela Disney+, a produção mostra um caçador de recompensas viajando pela galáxia após os acontecimentos mostrados em O Retorno de Jedi.Criada por Jon Favreau, a série é estrelada por Pedro Pascal.</p>
+<p align="center">The Mandalorian é a primeira série derivada em live-action de Star Wars. Transmitida pela Disney+, a produção mostra um caçador de recompensas viajando pela galáxia após os acontecimentos mostrados em O Retorno de Jedi. Criada por Jon Favreau, a série é estrelada por Pedro Pascal.</p>
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
